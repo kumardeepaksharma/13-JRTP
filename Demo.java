@@ -11,6 +11,7 @@ public static void main(String[] args)
 	System.out.println(a);
 	System.out.println(b);   // this is my input
 	System.out.println(a+b);
+	System.out.println(a+d);
 
 }
 }
